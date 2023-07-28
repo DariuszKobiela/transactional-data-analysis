@@ -1,0 +1,6 @@
+,seqnum,timestamp,mktcenter,price,shares,salescondition,canceled,dottchar,issuechar,msgseqnum,originalmsgseqnum,submkt
+0,5005092,2009-05-07 09:51:24,U,311.0,7,@   ,False,F,?,11866,0,
+0,647028,2009-03-31 09:34:59,U,306.0,1,@   ,False,F,?,3459,0,
+0,12557913,2009-11-10 11:54:02,U,154.0,3,@   ,False,F,S,42819,0,
+0,520998,2009-12-15 09:33:19,U,117.75,150,@   ,False,F,S,6069,0,
+...
